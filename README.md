@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Darsana Ramesh**, and my journey into the world of tech started with a spark — the curiosity to know *how things work behind the screen*. What began as a simple interest has now grown into a passion for building meaningful digital experiences.
+I’m **Darsana R**, and my journey into the world of tech started with a spark — the curiosity to know *how things work behind the screen*. What began as a simple interest has now grown into a passion for building meaningful digital experiences.
 
 <!--
 **Darsana-Ramesh/Darsana-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
