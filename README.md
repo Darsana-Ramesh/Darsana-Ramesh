@@ -14,7 +14,7 @@ I’m **Darsana R**, and my journey into the world of tech started with a spark 
 
 - 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, PHP, Firebase, MySQL**, or anything related to building practical web apps. I’d love to share what I know and learn even more in the process.
 
-- 📫 How to reach me: You can connect with me via [LinkedIn](www.linkedin.com/in/darsanar)
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/darsanar/))
 
 - 😄 Pronouns: *She/Her*
 
