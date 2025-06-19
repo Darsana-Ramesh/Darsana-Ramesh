@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I’m **Darsana R**, and my journey into the world of tech started with a spark — the curiosity to know *how things work behind the screen*. What began as a simple interest has now grown into a passion for building meaningful digital experiences.
+When I took up engineering, I didn’t know exactly where it would lead me — but I was always curious about how things work behind the scenes. It started with a simple question during a class project: *"What really happens when we click a button on a website?"*
+
+That single thought sparked something deeper.
+
+I’m **Darsana R**, and what began as a classroom curiosity has turned into a genuine passion for tech. Over time, I discovered the joy of not just using technology — but building it. From creating simple web pages to developing full-stack applications, I realized I love crafting digital experiences that are not only functional but meaningful.
+
+Now, every line of code feels like a small step toward solving a real-world problem — and I’m excited to keep learning, building, and creating every day.
+
 
 <!--
 **Darsana-Ramesh/Darsana-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
