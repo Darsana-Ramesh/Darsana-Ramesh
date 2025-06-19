@@ -1,18 +1,11 @@
-## Hi there 👋
+## Hello world😁👋
 
-When I took up engineering, I didn’t know exactly where it would lead me — but I was always curious about how things work behind the scenes. It started with a simple question during a class project: *"What really happens when we click a button on a website?"*
+I am **Darsana**, When I started engineering, I didn’t know exactly where it would take me — but one simple question changed everything: “What really happens when you click a button on a website?”
+That moment sparked my curiosity, and soon I found myself diving into the world behind the screen.
 
-That single thought sparked something deeper.
-
-I’m **Darsana R**, and what began as a classroom curiosity has turned into a genuine passion for tech. Over time, I discovered the joy of not just using technology — but building it. From creating simple web pages to developing full-stack applications, I realized I love crafting digital experiences that are not only functional but meaningful.
-
-Now, every line of code feels like a small step toward solving a real-world problem — and I’m excited to keep learning, building, and creating every day.
+Since then, I’ve been building — from basic web pages to full-stack applications — discovering the joy of creating digital experiences that are both functional and meaningful.
 
 
-<!--
-**Darsana-Ramesh/Darsana-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-  
 - 🌱 Right now, I’m diving into **AI, ML, React, Firebase, and Flask**. Each technology opens new doors and helps me craft applications that are smarter, faster, and more user-friendly.
 
 - 👯 I’m looking to collaborate on projects that **combine logic and design** — whether it's a sleek front-end experience or a well-thought-out backend system. I'm always excited to learn from others and grow together.
