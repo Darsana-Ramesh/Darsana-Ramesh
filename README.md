@@ -25,5 +25,5 @@ Now, every line of code feels like a small step toward solving a real-world prob
 
 - 😄 Pronouns: *She/Her*
 
-- - ⚡ Fun fact: Coding taught me patience… mostly thanks to missing `}` and forgotten `;` 😅
+- ⚡ Fun fact: Coding taught me patience… mostly thanks to missing `}` and forgotten `;` 😅
 
