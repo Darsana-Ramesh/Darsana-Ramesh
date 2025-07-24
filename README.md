@@ -10,9 +10,9 @@ Hi, I’m Darsana! My journey in engineering began with a simple question: “Wh
   
 - Let’s chat about Python, Java, C, HTML, CSS, JS, PHP, Firebase, or MySQL — I love sharing and learning!
 
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/darsanar/)
+- How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/darsanar/)
 
-- 😄 Pronouns: *She/Her*
+- Pronouns: *She/Her*
 
-- ⚡ Fun fact: Coding taught me patience… mostly thanks to missing `}` and forgotten `;` 😅
+- Fun fact: Coding taught me patience… mostly thanks to missing `}` and forgotten `;` 😅
 
