@@ -17,8 +17,8 @@ I am focused on building smarter applications and expanding my expertise into th
 | :--- | :--- | :--- |
 | **Frontend** | Crafting seamless UI/UX | `HTML5`, `CSS3`, `JavaScript`, `Bootstrap` |
 | **Backend** | Architecting server logic | `Flask` (Python), `Java`, `PHP` |
-| **Data Science** | Predictive Modeling & Analysis | **AI & ML**, `Scikit-learn`, `Pandas`, `NumPy` |
-| **Database** | Data Management & Security | `Firebase`, `MySQL` (Relational Database Design - **3NF**) |
+| **Data Science** | Predictive Modeling & Analysis (AI/ML) | `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib` |
+| **Database** | Data Management & Security | `Firebase`, `MySQL`  |
 
 ---
 
