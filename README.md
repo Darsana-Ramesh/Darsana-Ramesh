@@ -1,6 +1,7 @@
 <div align="center">
  <h1 style="color: #6f42c1;">Hi there, I'm Darsana</h1>
- <img src="https://img.shields.io/badge/Crafting_Clean_Code-Creating_Cool_Concepts-00a896?style=for-the-badge&labelColor=007043" alt="Crafting Clean Code, Creating Cool Concepts"/>
+ <img src="https://img.shields.io/badge/Crafting_Clean_Code-Creating_Cool_Concepts-FF69B4?style=for-the-badge&labelColor=1E90FF" alt="Crafting Clean Code, Creating Cool Concepts"/>
+
 </div>
 
 ---
