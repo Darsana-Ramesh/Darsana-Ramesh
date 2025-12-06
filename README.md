@@ -1,9 +1,8 @@
 <div align="center">
-    <h1>Hi there, I'm Darsana 👋</h1>
-    <p>Crafting Clean Code, Creating Cool Concepts.</p>
+    <img src="https://img.shields.io/badge/Darsana_Ramesh-Future_Forward_Technologist-6f42c1?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt="Darsana Ramesh - Future Forward Technologist"/>
+    <h2 style="color: #6f42c1;">Hi there 👋</h2>
+    <p style="color: #00a896; font-size: 1.2em; font-weight: 500;">Crafting Clean Code, Creating Cool Concepts.</p>
 </div>
-
-
 
 ---
 
