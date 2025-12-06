@@ -1,7 +1,20 @@
 <div align="center">
-    <h1>Hi there, I'm Darsana</h1>
-    <p>Crafting Clean Code, Creating Cool Concepts.</p>
+    <h1>
+        <span style="color:#FF5733;">Hi</span> 
+        <span style="color:#33C1FF;">there,</span> 
+        <span style="color:#28A745;">I'm</span> 
+        <span style="color:#FFC300;">Darsana</span>
+    </h1>
+    <p>
+        <span style="color:#FF6F61;">Crafting</span> 
+        <span style="color:#6A5ACD;">Clean</span> 
+        <span style="color:#20B2AA;">Code,</span> 
+        <span style="color:#FF69B4;">Creating</span> 
+        <span style="color:#FF8C00;">Cool</span> 
+        <span style="color:#8A2BE2;">Concepts.</span>
+    </p>
 </div>
+
 
 ---
 
