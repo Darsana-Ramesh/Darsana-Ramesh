@@ -25,17 +25,33 @@ I am focused on building smarter applications and expanding my expertise into th
 ### 🛠️ The Toolkit I Use (Let's Chat!)
 I love sharing knowledge and collaborating on projects involving any of these technologies.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming Badge"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <!-- Frontend -->
+  <div style="background-color:#f16529; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">HTML5</div>
+  <div style="background-color:#2965f1; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">CSS3</div>
+  <div style="background-color:#f7df1e; color:black; padding: 8px 15px; border-radius: 8px; font-weight:bold;">JavaScript</div>
+  <div style="background-color:#61dafb; color:black; padding: 8px 15px; border-radius: 8px; font-weight:bold;">React</div>
+
+  <!-- Backend -->
+  <div style="background-color:#000000; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Flask</div>
+  <div style="background-color:#007396; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Java</div>
+  <div style="background-color:#777BB4; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">PHP</div>
+
+  <!-- Database -->
+  <div style="background-color:#4479A1; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">MySQL</div>
+  <div style="background-color:#FFCA28; color:black; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Firebase</div>
+
+  <!-- Data / AI -->
+  <div style="background-color:#276DC3; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">R</div>
+  <div style="background-color:#150458; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Pandas</div>
+  <div style="background-color:#F7931E; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Scikit-learn</div>
+
+  <!-- Design -->
+  <div style="background-color:#F24E1E; color:white; padding: 8px 15px; border-radius: 8px; font-weight:bold;">Figma</div>
+
+</div>
+
 
 ---
 
