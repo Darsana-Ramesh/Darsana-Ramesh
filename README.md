@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there, I'm Darsana 👋</h1>
-    <p>Where Full-Stack meets Future: Building intelligent applications, one curiosity-fueled line of code at a time.</p>
+    <p>Where Crafting Clean Code, Creating Cool Concepts.</p>
 </div>
 
 ---
@@ -15,9 +15,9 @@ I am focused on building smarter applications and expanding my expertise into th
 
 | Category | Primary Focus | Key Technologies & Concepts |
 | :--- | :--- | :--- |
-| **Frontend** | Crafting seamless UI/UX | `React`, `HTML5`, `CSS3`, `JavaScript`, `Bootstrap` |
+| **Frontend** | Crafting seamless UI/UX | `HTML5`, `CSS3`, `JavaScript`, `Bootstrap` |
 | **Backend** | Architecting server logic | `Flask` (Python), `Java`, `PHP` |
-| **Data Science** | Predictive Modeling & Analysis | 🧠 **AI & ML**, `Scikit-learn`, `Pandas`, `NumPy` |
+| **Data Science** | Predictive Modeling & Analysis | **AI & ML**, `Scikit-learn`, `Pandas`, `NumPy` |
 | **Database** | Data Management & Security | `Firebase`, `MySQL` (Relational Database Design - **3NF**) |
 
 ---
@@ -39,24 +39,11 @@ I love sharing knowledge and collaborating on projects involving any of these te
 
 ---
 
-### 🌟 Featured Projects: Where Code Meets Impact
-A glimpse into my hands-on work, demonstrating both machine learning and full-stack expertise.
-
-| Project Name | Key Technology Used | Technical Highlight |
-| :--- | :--- | :--- |
-| **CorBeat – Heart Disease Predictor** | `Python`, `Flask`, `Scikit-learn` | Achieved **94.5% accuracy** using a **Random Forest** classification model. |
-| **AI Algorithm + Code Generator** | **Google Gemini API**, `Python` | Translates natural language into algorithms, **Mermaid flowcharts**, and minimal code (Python, Java, C++). |
-| **ResumeLens - AI Talent Scout** | `AI/ML` & Web Stack | Provides **AI-based Match Scores**, missing skills, and instant candidate comparison for recruiters. |
-| **CanteenExpress – Full-Stack CMS** | `PHP`, `MySQL`, `HTML/CSS` | Built on a **highly normalized relational database (3NF)** for robust inventory and sales management. |
-| **Portfolio v1 / Predictor App** | `HTML`, `CSS`, `JavaScript` | Features advanced effects like **IntersectionObserver** for interactive, smooth scrolling experiences. |
-
----
-
 ### 🤝 Let's Connect & Collaborate
 I’m open to collaborations that seek to blend solid engineering with aesthetic design—front-end, back-end, or data science.
 
 - **Seeking Guidance On:** Integrating cutting-edge AI features (like custom models or advanced APIs) into production web applications.
-- **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL)
+- **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/in/darsanar)
 - **Pronouns:** She/Her
 
 ---
