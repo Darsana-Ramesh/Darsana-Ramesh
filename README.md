@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hi there, I'm Darsana 👋</h1>
-    <p>Where Crafting Clean Code, Creating Cool Concepts.</p>
+    <h1>Hi there, I'm Darsana</h1>
+    <p>Crafting Clean Code, Creating Cool Concepts.</p>
 </div>
 
 ---
