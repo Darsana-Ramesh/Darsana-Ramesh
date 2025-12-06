@@ -1,14 +1,7 @@
 <div align="center">
-
-  <!-- Name Badge -->
-  <img src="https://img.shields.io/badge/Hi_there_👋-I'm_Darsana-6f42c1?style=for-the-badge&labelColor=000000" alt="Hi there, I'm Darsana"/>
-
-  <!-- Tagline Badge -->
-  <br><br>
+ <h1 style="color: #6f42c1;">Hi there, I'm Darsana 👋</h1> <br>
   <img src="https://img.shields.io/badge/Crafting_Clean_Code-Creating_Cool_Concepts-00a896?style=for-the-badge&labelColor=000000" alt="Crafting Clean Code, Creating Cool Concepts"/>
-
 </div>
-
 
 ---
 
