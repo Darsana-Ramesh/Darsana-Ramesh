@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 style="color: #6f42c1;">Hi there, I'm Darsana 👋</h1>
-    <p style="color: #00a896; font-size: 1.2em; font-weight: 500;">Crafting Clean Code, Creating Cool Concepts.</p>
+    <h1>Hi there, I'm Darsana 👋</h1>
+    <p>Crafting Clean Code, Creating Cool Concepts.</p>
 </div>
 
 
