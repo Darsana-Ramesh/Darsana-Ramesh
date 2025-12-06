@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there, I'm Darsana 👋</h1>
-    <p>A Full-Stack Developer driven by curiosity and a passion for intelligent, data-driven design.</p>
+    <p>Where Full-Stack meets Future: Building intelligent applications, one curiosity-fueled line of code at a time.</p>
 </div>
 
 ---
@@ -60,16 +60,6 @@ I’m open to collaborations that seek to blend solid engineering with aesthetic
 - **Pronouns:** She/Her
 
 ---
-
-### 📈 GitHub Stats & More
-<p align="center">
-    <a href="https://github.com/Darsana-Ramesh?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=Darsana-Ramesh&show_icons=true&theme=radical&hide_border=true" alt="Darsana's GitHub stats" />
-    </a>
-    <a href="https://github.com/Darsana-Ramesh?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsana-Ramesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </a>
-</p>
 
 ### ☕ A Little Fun Fact
 ```bash
