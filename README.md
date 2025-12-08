@@ -5,14 +5,12 @@
 
 ---
 
-<img src="https://img.shields.io/badge/The%20Engineer%27s%20Origin%20Story-FFD700?style=for-the-badge&labelColor=000000" />
-
+<img src="https://img.shields.io/badge/The%20Engineer%27s%20Origin%20Story-B20085?style=for-the-badge&labelColor=4A145E" />
 My journey in engineering began not with a textbook, but with a simple, persistent question: ***“What is the magic that happens behind the scenes when I click this button?”***
 
 That initial spark of curiosity quickly evolved into a drive to transform basic web pages into robust, full-stack applications. I thrive on blending complex logic with sleek, intuitive user experiences.
 
-<img src="https://img.shields.io/badge/The%20Toolkit%20I%20Use%20(Let's%20Chat!)-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
-
+<img src="https://img.shields.io/badge/The%20Toolkit%20I%20Use%20(Let's%20Chat!)-B20085?style=for-the-badge&labelColor=4A145E" />
 I love sharing knowledge and collaborating on projects involving any of these technologies.
 <p align="center">
     <!-- Programming Languages -->
@@ -43,8 +41,7 @@ I love sharing knowledge and collaborating on projects involving any of these te
 
 ---
 
-<img src="https://img.shields.io/badge/Let's%20Connect%20%26%20Collaborate-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
-
+<img src="https://img.shields.io/badge/Let's%20Connect%20%26%20Collaborate-B20085?style=for-the-badge&labelColor=4A145E" />
 I’m open to collaborations that seek to blend solid engineering with aesthetic design—front-end, back-end, or data science.
 
 - **Seeking Guidance On:** Integrating cutting-edge AI features (like custom models or advanced APIs) into production web applications.
@@ -53,8 +50,7 @@ I’m open to collaborations that seek to blend solid engineering with aesthetic
 
 ---
 
-<img src="https://img.shields.io/badge/A%20Little%20Fun%20Fact-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
-
+<img src="https://img.shields.io/badge/A%20Little%20Fun%20Fact-B20085?style=for-the-badge&labelColor=4A145E" />
 ```bash
 # My commitment to clean code is high, but my commit messages 
 # usually look like this:
