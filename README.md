@@ -5,7 +5,8 @@
 
 ---
 
-### 💡 The Engineer's Origin Story
+<img src="https://img.shields.io/badge/The%20Engineer's%20Origin%20Story-7D3C98?style=for-the-badge&labelColor=2E0854" />
+
 My journey in engineering began not with a textbook, but with a simple, persistent question: ***“What is the magic that happens behind the scenes when I click this button?”***
 
 That initial spark of curiosity quickly evolved into a drive to transform basic web pages into robust, full-stack applications. I thrive on blending complex logic with sleek, intuitive user experiences.
